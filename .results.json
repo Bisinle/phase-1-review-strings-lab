@@ -5,15 +5,15 @@
     "passes": 10,
     "pending": 0,
     "failures": 0,
-    "start": "2023-06-12T09:34:23.870Z",
-    "end": "2023-06-12T09:34:25.391Z",
-    "duration": 1521
+    "start": "2023-06-12T09:37:53.380Z",
+    "end": "2023-06-12T09:37:54.975Z",
+    "duration": 1595
   },
   "tests": [
     {
       "title": "is defined",
       "fullTitle": "index.js currentUser is defined",
-      "duration": 4,
+      "duration": 6,
       "currentRetry": 0,
       "err": {}
     },
@@ -55,7 +55,7 @@
     {
       "title": "ends with an exclamation point",
       "fullTitle": "index.js excitedWelcomeMessage ends with an exclamation point",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -76,7 +76,7 @@
     {
       "title": "ends with an exclamation point",
       "fullTitle": "index.js shortGreeting ends with an exclamation point",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     }
@@ -87,7 +87,7 @@
     {
       "title": "is defined",
       "fullTitle": "index.js currentUser is defined",
-      "duration": 4,
+      "duration": 6,
       "currentRetry": 0,
       "err": {}
     },
@@ -129,7 +129,7 @@
     {
       "title": "ends with an exclamation point",
       "fullTitle": "index.js excitedWelcomeMessage ends with an exclamation point",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -150,7 +150,7 @@
     {
       "title": "ends with an exclamation point",
       "fullTitle": "index.js shortGreeting ends with an exclamation point",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     }

@@ -10,3 +10,4 @@ excitedWelcomeMessage = `"WELCOME TO FLATBOOK, ${currentUser.toUpperCase()}"!`
 
 let shortGreeting = "Welcome, "
 shortGreeting = `Welcome, "${currentUser.charAt(0)}!`
+shortGreeting = `Welcome, "${currentUser.slice(0,1)}!`
